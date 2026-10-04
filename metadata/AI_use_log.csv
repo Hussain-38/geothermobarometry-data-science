@@ -1,0 +1,9 @@
+task,AI_assistance,decision,independent_verification
+Project framing and assignment decomposition,"Suggested research framing, dataset roles, provenance structure, and audit sequence.",Accepted with project-specific revisions.,"Checked against assignment requirements, publication, and supplied datasets."
+Python provenance and data-quality audit code,Generated and iteratively corrected Spyder-compatible Python audit code.,Accepted after execution and debugging.,User executed code locally in Spyder and reviewed console outputs.
+S2 analytical-row identification,Suggested separating 90 experimental runs from 23 appended reference rows.,Accepted.,"Verified from Source, Run, experimental T/P completeness, and row-level output."
+S3 duplicate handling,Suggested preserving repeated sample analyses while flagging exact duplicate records.,Accepted.,Duplicate groups inspected row-by-row; 4 redundant exact copies identified.
+S3 GASP-GBPQ reproducibility check,Suggested independent recalculation and boundary/rounding tests.,Accepted.,Full-precision and rounded calculations executed locally and compared with manuscript counts.
+Leakage prevention,"Classified mineral chemistry, identifiers, experimental targets, benchmarks, and thermobarometer outputs.",Accepted.,All columns reviewed through automated role tables; no variables remained under manual review.
+S4 hierarchical-column provenance,Suggested reconstruction of original Excel header blocks and correction of forward-fill interpretation.,Accepted after correction.,Original two-row workbook headers inspected directly; chemistry begins after column position 89.
+Repository preparation,Suggested reproducible GitHub directory structure and file organization.,Accepted.,Repository file-copy summary reviewed locally.

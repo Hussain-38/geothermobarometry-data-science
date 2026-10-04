@@ -1,0 +1,9 @@
+audit_item,finding,interpretation
+S2 analytical-row filtering,113 structured S2 rows comprise 90 experimental runs and 23 appended bibliography/reference rows.,Reference appendix excluded from analytical S2 but retained separately.
+S3 exact-duplicate sensitivity,Primary S3 preserves all 2084 published observations; sensitivity dataset contains 2080 rows after removing four redundant exact copies.,Exact duplication is handled transparently without altering the published dataset.
+S3 GASP-GBPQ reproducibility,Full-precision GBPQ-average versus GASP calculation gives 2028/2084 (97.31%) with absolute pressure difference <1 kbar.,Supplied S3 workbook independently reproduces the reported ~97.3% agreement.
+S3 manuscript rounding convention,Using GBPQ pressure values rounded to two decimals before classification reproduces the manuscript count of 2027/2084 (~97.3%) for errors <1 kbar.,"The 2027 versus 2028 difference is attributable to numerical precision/rounding convention, not forced data deletion."
+S4 hierarchical provenance,S4 thermobarometric calculation blocks end at original column position 88; raw chemistry begins at position 90. Chemistry is not part of the iterative-output block.,Prevents pandas .1/.2 suffixes from being misinterpreted as accidental duplicates.
+Thermobarometer inventory,Corrected inventory contains 8 geobarometers and 12 geothermometers (20 methods total).,Raw text inconsistencies remain provenance issues rather than silent corrections.
+P-T calibration-domain metadata,"Fourteen methods have explicit pressure-and-temperature ranges, five are listed as unspecified, and one is mixed/unclear in the supplied inventory.",Unspecified calibration domains must not be invented.
+Leakage audit,"All experimental/reference targets, model-derived benchmarks, and thermobarometer outputs are prohibited as ML predictors; no variables remain under manual role review.",Prevents target leakage in later regression/classification assignments.

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Spyder / Jupyter
+.spyproject/
+.ipynb_checkpoints/
+
+# Conda / virtual environments
+.env/
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Do not commit publisher-formatted article PDF
+*.pdf
+
+# Exception: final assignment report may be committed later
+!reports/*.pdf

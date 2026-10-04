@@ -1,0 +1,5 @@
+dataset,n_observations,n_columns,columns_with_missing,completely_missing_columns,exact_duplicate_rows,complete_identifier_rows,unique_scientific_units,duplicate_identifier_rows
+S1,39,29,0,0,0,39,39,0
+S2,90,57,17,0,0,90,90,0
+S3,2084,21,2,0,8,2084,2051,63
+S4,88,111,54,0,0,88,88,0

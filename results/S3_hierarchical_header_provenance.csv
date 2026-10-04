@@ -1,0 +1,22 @@
+dataset,excel_column_position_0_based,top_level_raw,top_level_forward_filled,second_level_original,pandas_column_name,structured_column_name
+S3,0,,,Source,Source,Source
+S3,1,,,Rock,Rock,Rock
+S3,2,,,Sample,Sample,Sample
+S3,3,,,Al2SiO5,Al2SiO5,Al2SiO5
+S3,4,,,Opaque,Opaque,Opaque
+S3,5,iteration pair,iteration pair,T (GB00),T (GB00),T (GB00)
+S3,6,,iteration pair,P (GASP),P (GASP),P (GASP)
+S3,8,iteration pair,iteration pair,T (GB00),T (GB00).1,T (GB00).1
+S3,9,,iteration pair,P (GBPQ-Mg),P (GBPQ-Mg),P (GBPQ-Mg)
+S3,10,,iteration pair,P (GBPQ-Fe),P (GBPQ-Fe),P (GBPQ-Fe)
+S3,12,,iteration pair,Fe(Bt),Fe(Bt),Fe(Bt)
+S3,13,,iteration pair,Mg(Bt),Mg(Bt),Mg(Bt)
+S3,14,,iteration pair,AlVI(Bt),AlVI(Bt),AlVI(Bt)
+S3,15,,iteration pair,Ti(Bt),Ti(Bt),Ti(Bt)
+S3,17,,iteration pair,Ca(Pl),Ca(Pl),Ca(Pl)
+S3,18,,iteration pair,Na(Pl),Na(Pl),Na(Pl)
+S3,19,,iteration pair,K(Pl),K(Pl),K(Pl)
+S3,21,,iteration pair,Fe(Grt),Fe(Grt),Fe(Grt)
+S3,22,,iteration pair,Mg(Grt),Mg(Grt),Mg(Grt)
+S3,23,,iteration pair,Ca(Grt),Ca(Grt),Ca(Grt)
+S3,24,,iteration pair,Mn(Grt),Mn(Grt),Mn(Grt)

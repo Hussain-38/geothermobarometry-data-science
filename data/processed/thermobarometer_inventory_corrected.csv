@@ -1,0 +1,21 @@
+Type,Name,Symbol,Source,Calibration Method,P-T range
+Geobarometer,Garnet-Aluminosilicate-Plagioclase,(GASP),"Holdaway, (2001)",Mixed,14~31kbar / 650~1400ºC
+Geobarometer,Garnet-Biotite-Plagioclase-Quartz,GBPQ),"Wu et al., (2004)",Empirical,1~11kbar / 515~880
+Geobarometer,Garnet-Hornblende-Plagioclase-Quartz,(GHPQ89),Kohn and Spear 1989,Empirical,3~14kbar / 520~800ºC
+Geobarometer,Garnet-Hornblende-Plagioclase-Quartz,(GHPQ90),Kohn and Spear 1990,Empirical,2~13kbar / 500~800ºC
+Geobarometer,Garnet-Hornblende-Plagioclase-Quartz,(GHPQ00),"Dale et al., (2000)",Empirical,4~13 kbar/ 500~800ºC
+Geobarometer,Plagioclase-Hornblende,(PH07)         ,Bhadra and Bhattacharya (2007),Experimental,1~15 kbar/ 650~950ºC
+Geobarometer,Plagioclase-Hornblende,(PH15),"Molina et al., (2015)",Experimental,1~15kbar / 650~1050ºC
+Geobarometer,Hornblende,(Hbl97),"Gerya et al., (1997)",Empirical, unspecified
+Geothermometer,Garnet-Biotite,T(GB) ,"Holdaway, (2000)",Expérimental, 2~6 kbar/ 550~950ºC
+Geothermometer,Garnet-Hornblende,T(GH84),"Graham, (1984)",Empirical, 5~25 kbar/ 600~920ºC
+Geothermometer, Garnet-Hornblende,T(GH85Pe),"Perchuket al., (1985)",Empirical,unspecified
+Geothermometer,Garnet-Hornblende,T(GH85Po),"Powell, (1985)",Empirical,unspecified
+Geothermometer,Garnet-Hornblende,T(GH90) ,Perchuk and Lavrent’yeva (1990) ,Experimental,6 kbar/ 700~800ºC
+Geothermometer,Garnet-Hornblende,T(GH00D),"Dale et al., (2000)",Empirical,3~14 kbar/ 520~800ºC
+Geothermometer,Garnet-Hornblende,  T(GH00R),"Ravna, (2000)",Mixed,5~15kbar/ 515~1025ºC
+Geothermometer,Plagiclase-Hornblende,T(PH80),"Spear, (1980)",Empirical,unspecified
+Geothermometer,Plagiclase-Hornblende,     T(PH90) ,Blundy and Holland (1990),Empirical,mixed
+Geothermometer,Plagiclase-Hornblende,T(PH94),Holland and Blundy (1994),Mixed,1~15kbar / 400~1000ºC
+Geothermometer,Plagiclase-Hornblende,T(PH21),"Molina et al., (2021)",Experimental, 1~15kbar / 640~1000ºC
+Geothermometer,Plagiclase-Hornblende,T(Hbl97),"        Gerya et al., (1997) ",Empirical,unspecified

@@ -1,0 +1,5 @@
+dataset,n_rows,n_columns,columns_with_missing,fully_missing_columns,exact_duplicate_rows_keep_false,duplicate_identifier_rows,genuine_blank_string_cells,rows_outside_published_experimental_PT_domain,eligible_raw_chemistry_predictor_columns,prohibited_predictor_columns,manual_role_review_columns,provenance_note,duplicate_handling
+S1,39,29,0,0,0,0,0,0.0,18,9,0,39 experimental runs retained; complete experimental P-T and mineral-cation data.,No duplicate action required.
+S2,90,57,17,0,0,0,0,0.0,26,29,0,90 experimental runs retained from 113 structured rows; 23 appended bibliography/reference rows separated from analysis.,No duplicate experimental Source+Run identifiers.
+S3,2084,21,2,0,8,63,0,,11,5,0,Published 2084-row dataset retained. Repeated Source+Sample identifiers can represent distinct analyses.,Four redundant exact copies identified; retained in primary published dataset and removed only in 2080-row sensitivity dataset.
+S4,88,111,54,0,0,0,0,,38,68,0,88 natural-rock samples retained; missing oxide analyses are distinguished from complete normalized cation data.,No duplicate Source+Sample identifiers in analytical dataset.

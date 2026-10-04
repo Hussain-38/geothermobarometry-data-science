@@ -1,0 +1,112 @@
+dataset,excel_column_position_0_based,top_level_raw,top_level_forward_filled,second_level_original,pandas_column_name,structured_column_name
+S4,0,,,Source,Source,Source
+S4,1,,,Rock,Rock,Rock
+S4,2,,,Sample,Sample,Sample
+S4,3,,,Al2SiO5,Al2SiO5,Al2SiO5
+S4,4,,,Opaque,Opaque,Opaque
+S4,5,,,T(GB00),T(GB00),T(GB00)
+S4,6,,,P(GBPQ)(ave),P(GBPQ)(ave),P(GBPQ)(ave)
+S4,7,,,P(GBPQ)(Mg),P(GBPQ)(Mg),P(GBPQ)(Mg)
+S4,8,,,P(GBPQ)(Fe),P(GBPQ)(Fe),P(GBPQ)(Fe)
+S4,10,Based on GBPQ,Based on GBPQ,T (Grt-Hbl-84),T (Grt-Hbl-84),T (Grt-Hbl-84)
+S4,11,Based on GBPQ,Based on GBPQ,T (Grt-Hbl-85Pe),T (Grt-Hbl-85Pe),T (Grt-Hbl-85Pe)
+S4,12,Based on GBPQ,Based on GBPQ,T (Grt-Hbl-85Po),T (Grt-Hbl-85Po),T (Grt-Hbl-85Po)
+S4,13,Based on GBPQ,Based on GBPQ,T (Grt-Hbl-90),T (Grt-Hbl-90),T (Grt-Hbl-90)
+S4,14,Based on GBPQ,Based on GBPQ,T (Grt-Hbl00D),T (Grt-Hbl00D),T (Grt-Hbl00D)
+S4,15,Based on GBPQ,Based on GBPQ,T (Grt-Hbl00R),T (Grt-Hbl00R),T (Grt-Hbl00R)
+S4,17,Based on GBPQ,Based on GBPQ,T (Hbl-Pl-90),T (Hbl-Pl-90),T (Hbl-Pl-90)
+S4,18,Based on GBPQ,Based on GBPQ,T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave)
+S4,19,Based on GBPQ,Based on GBPQ,T (Hbl-Pl-94-A),T (Hbl-Pl-94-A),T (Hbl-Pl-94-A)
+S4,20,Based on GBPQ,Based on GBPQ,T (Hbl-Pl-94-B),T (Hbl-Pl-94-B),T (Hbl-Pl-94-B)
+S4,21,Based on GBPQ,Based on GBPQ,T (Hbl-Pl-21-ave),T (Hbl-Pl-21-ave),T (Hbl-Pl-21-ave)
+S4,22,Based on GBPQ,Based on GBPQ,T (Hbl-Pl-21-A),T (Hbl-Pl-21-A),T (Hbl-Pl-21-A)
+S4,23,Based on GBPQ,Based on GBPQ,T (Hbl-Pl-21-B),T (Hbl-Pl-21-B),T (Hbl-Pl-21-B)
+S4,25,Based on P(GBPQ),Based on P(GBPQ),T (Hbl97),T (Hbl97),T (Hbl97)
+S4,27,Based on T(GB00),Based on T(GB00),P(GHPQ89ave),P(GHPQ89ave),P(GHPQ89ave)
+S4,28,Based on T(GB00),Based on T(GB00),P(GHPQ89Mg-a),P(GHPQ89Mg-a),P(GHPQ89Mg-a)
+S4,29,Based on T(GB00),Based on T(GB00),P(GHPQ89Fe-a),P(GHPQ89Fe-a),P(GHPQ89Fe-a)
+S4,30,Based on T(GB00),Based on T(GB00),P(GHPQ89Mg-b),P(GHPQ89Mg-b),P(GHPQ89Mg-b)
+S4,31,Based on T(GB00),Based on T(GB00),P(GHPQ89Fe-b),P(GHPQ89Fe-b),P(GHPQ89Fe-b)
+S4,33,Based on T(GB00),Based on T(GB00),P(GHPQ90ave),P(GHPQ90ave),P(GHPQ90ave)
+S4,34,Based on T(GB00),Based on T(GB00),P(GHPQ90a),P(GHPQ90a),P(GHPQ90a)
+S4,35,Based on T(GB00),Based on T(GB00),P(GHPQ90b),P(GHPQ90b),P(GHPQ90b)
+S4,37,Based on T(GB00),Based on T(GB00),P(GHPQ00-Dale-ave),P(GHPQ00-Dale-ave),P(GHPQ00-Dale-ave)
+S4,38,Based on T(GB00),Based on T(GB00),P(GHPQ00Dale-a),P(GHPQ00Dale-a),P(GHPQ00Dale-a)
+S4,39,Based on T(GB00),Based on T(GB00),P(GHPQ00Dale-b),P(GHPQ00Dale-b),P(GHPQ00Dale-b)
+S4,40,Based on T(GB00),Based on T(GB00),P(GHPQ00Dale-c),P(GHPQ00Dale-c),P(GHPQ00Dale-c)
+S4,42,Based on T(GB00),Based on T(GB00),P (Hbl-Pl-2007-ave),P (Hbl-Pl-2007-ave),P (Hbl-Pl-2007-ave)
+S4,43,Based on T(GB00),Based on T(GB00),P (Hbl-Pl-2007-1),P (Hbl-Pl-2007-1),P (Hbl-Pl-2007-1)
+S4,44,Based on T(GB00),Based on T(GB00),P (Hbl-Pl-2007-2),P (Hbl-Pl-2007-2),P (Hbl-Pl-2007-2)
+S4,45,Based on T(GB00),Based on T(GB00),P (Hbl-Pl-2015),P (Hbl-Pl-2015),P (Hbl-Pl-2015)
+S4,47,Based on T(GB00),Based on T(GB00),P (Hbl97),P (Hbl97),P (Hbl97)
+S4,49,iteration pair,iteration pair,T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave).1,T (Hbl-Pl-94-ave).1
+S4,50,iteration pair,iteration pair,P(GHPQ00-Dale-ave),P(GHPQ00-Dale-ave).1,P(GHPQ00-Dale-ave).1
+S4,51,iteration pair,iteration pair,P(GHPQ00Dale-a),P(GHPQ00Dale-a).1,P(GHPQ00Dale-a).1
+S4,52,iteration pair,iteration pair,P(GHPQ00Dale-b),P(GHPQ00Dale-b).1,P(GHPQ00Dale-b).1
+S4,53,iteration pair,iteration pair,P(GHPQ00Dale-c),P(GHPQ00Dale-c).1,P(GHPQ00Dale-c).1
+S4,54,iteration pair,iteration pair,T (Hbl-Pl-94-A),T (Hbl-Pl-94-A).1,T (Hbl-Pl-94-A).1
+S4,55,iteration pair,iteration pair,T (Hbl-Pl-94-B),T (Hbl-Pl-94-B).1,T (Hbl-Pl-94-B).1
+S4,57,iteration pair,iteration pair,T (Grt-Hbl00R) ºC,T (Grt-Hbl00R) ºC,T (Grt-Hbl00R) ºC
+S4,58,iteration pair,iteration pair,P (GHPQ90-ave),P (GHPQ90-ave),P (GHPQ90-ave)
+S4,59,iteration pair,iteration pair,P (GHPQ90-Mg),P (GHPQ90-Mg),P (GHPQ90-Mg)
+S4,60,iteration pair,iteration pair,P (GHPQ90-Fe),P (GHPQ90-Fe),P (GHPQ90-Fe)
+S4,62,iteration pair,iteration pair,T (Grt-Hbl-00D),T (Grt-Hbl-00D),T (Grt-Hbl-00D)
+S4,63,iteration pair,iteration pair,P (GHPQ00-ave),P (GHPQ00-ave),P (GHPQ00-ave)
+S4,65,iteration pair,iteration pair,T (Grt-Hbl-90),T (Grt-Hbl-90).1,T (Grt-Hbl-90).1
+S4,66,iteration pair,iteration pair,P (GHPQ90-ave),P (GHPQ90-ave).1,P (GHPQ90-ave).1
+S4,67,iteration pair,iteration pair,P (GHPQ-90Mg),P (GHPQ-90Mg),P (GHPQ-90Mg)
+S4,68,iteration pair,iteration pair,P (GHPQ-90Fe),P (GHPQ-90Fe),P (GHPQ-90Fe)
+S4,70,iteration pair,iteration pair,T(Grt-Hbl85Pe) ºC,T(Grt-Hbl85Pe) ºC,T(Grt-Hbl85Pe) ºC
+S4,71,iteration pair,iteration pair,P (GHPQ90-ave),P (GHPQ90-ave).2,P (GHPQ90-ave).2
+S4,72,iteration pair,iteration pair,P (GHPQ90-Mg),P (GHPQ90-Mg).1,P (GHPQ90-Mg).1
+S4,73,iteration pair,iteration pair,P (GHPQ90-Fe),P (GHPQ90-Fe).1,P (GHPQ90-Fe).1
+S4,75,iteration pair,iteration pair,T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave).2,T (Hbl-Pl-94-ave).2
+S4,76,iteration pair,iteration pair,P (Hbl-Pl-07-ave),P (Hbl-Pl-07-ave),P (Hbl-Pl-07-ave)
+S4,77,iteration pair,iteration pair,P (Hbl-Pl-07-1),P (Hbl-Pl-07-1),P (Hbl-Pl-07-1)
+S4,78,iteration pair,iteration pair,P (Hbl-Pl-07-2),P (Hbl-Pl-07-2),P (Hbl-Pl-07-2)
+S4,79,iteration pair,iteration pair,T (Hbl-Pl-94A),T (Hbl-Pl-94A),T (Hbl-Pl-94A)
+S4,80,iteration pair,iteration pair,T (Hbl-Pl-94B),T (Hbl-Pl-94B),T (Hbl-Pl-94B)
+S4,82,iteration pair,iteration pair,P (Hbl-Pl-2015),P (Hbl-Pl-2015).1,P (Hbl-Pl-2015).1
+S4,83,iteration pair,iteration pair,T (Hbl-Pl-2021-ave),T (Hbl-Pl-2021-ave),T (Hbl-Pl-2021-ave)
+S4,84,iteration pair,iteration pair,T (Hbl-Pl-2021-A1),T (Hbl-Pl-2021-A1),T (Hbl-Pl-2021-A1)
+S4,85,iteration pair,iteration pair,T (Hbl-Pl-2021-A2),T (Hbl-Pl-2021-A2),T (Hbl-Pl-2021-A2)
+S4,87,iteration pair,iteration pair,T (Hbl97),T (Hbl97).1,T (Hbl97).1
+S4,88,iteration pair,iteration pair,P (Hbl97),P (Hbl97).1,P (Hbl97).1
+S4,90,,iteration pair,Fe(Bt),Fe(Bt),Fe(Bt)
+S4,91,,iteration pair,Mg(Bt),Mg(Bt),Mg(Bt)
+S4,92,,iteration pair,AlVI(Bt),AlVI(Bt),AlVI(Bt)
+S4,93,,iteration pair,Ti(Bt),Ti(Bt),Ti(Bt)
+S4,95,,iteration pair,Ca(Pl),Ca(Pl),Ca(Pl)
+S4,96,,iteration pair,Na(Pl),Na(Pl),Na(Pl)
+S4,97,,iteration pair,K(Pl),K(Pl),K(Pl)
+S4,99,,iteration pair,Fe(Grt),Fe(Grt),Fe(Grt)
+S4,100,,iteration pair,Mg(Grt),Mg(Grt),Mg(Grt)
+S4,101,,iteration pair,Ca(Grt),Ca(Grt),Ca(Grt)
+S4,102,,iteration pair,Mn(Grt),Mn(Grt),Mn(Grt)
+S4,104,,iteration pair,Si (Hbl),Si (Hbl),Si (Hbl)
+S4,105,,iteration pair,Ti (Hbl),Ti (Hbl),Ti (Hbl)
+S4,106,,iteration pair,Al (Hbl),Al (Hbl),Al (Hbl)
+S4,107,,iteration pair,Fe (Hbl),Fe (Hbl),Fe (Hbl)
+S4,108,,iteration pair,Mn (Hbl),Mn (Hbl),Mn (Hbl)
+S4,109,,iteration pair,Mg (Hbl),Mg (Hbl),Mg (Hbl)
+S4,110,,iteration pair,Ca (Hbl),Ca (Hbl),Ca (Hbl)
+S4,111,,iteration pair,Na (Hbl),Na (Hbl),Na (Hbl)
+S4,112,,iteration pair,K (Hbl),K (Hbl),K (Hbl)
+S4,114,,iteration pair,SiO2(Pl),SiO2(Pl),SiO2(Pl)
+S4,115,,iteration pair,TiO2(Pl),TiO2(Pl),TiO2(Pl)
+S4,116,,iteration pair,Al2O3(Pl),Al2O3(Pl),Al2O3(Pl)
+S4,117,,iteration pair,FeO(Pl),FeO(Pl),FeO(Pl)
+S4,118,,iteration pair,Mn(Pl),Mn(Pl),Mn(Pl)
+S4,119,,iteration pair,MgO(Pl),MgO(Pl),MgO(Pl)
+S4,120,,iteration pair,Ca(Pl),Ca(Pl).1,Ca(Pl).1
+S4,121,,iteration pair,Na2O(Pl),Na2O(Pl),Na2O(Pl)
+S4,122,,iteration pair,K2O(Pl),K2O(Pl),K2O(Pl)
+S4,124,,iteration pair,SiO2(Hbl),SiO2(Hbl),SiO2(Hbl)
+S4,125,,iteration pair,TiO2(Hbl),TiO2(Hbl),TiO2(Hbl)
+S4,126,,iteration pair,Al2O3(Hbl),Al2O3(Hbl),Al2O3(Hbl)
+S4,127,,iteration pair,FeO(Hbl),FeO(Hbl),FeO(Hbl)
+S4,128,,iteration pair,Mn(Hbl),Mn(Hbl),Mn(Hbl)
+S4,129,,iteration pair,MgO(Hbl),MgO(Hbl),MgO(Hbl)
+S4,130,,iteration pair,Ca(Hbl),Ca(Hbl),Ca(Hbl)
+S4,131,,iteration pair,Na2O(Hbl),Na2O(Hbl),Na2O(Hbl)
+S4,132,,iteration pair,K2O(Hbl),K2O(Hbl),K2O(Hbl)

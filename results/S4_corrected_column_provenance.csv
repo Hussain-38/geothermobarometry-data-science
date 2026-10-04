@@ -1,0 +1,112 @@
+dataset,excel_column_position_0_based,raw_top_level_header,raw_second_level_header,pandas_column_name,structured_column_name,corrected_block
+S4,0,,Source,Source,Source,metadata_and_reference_benchmarks
+S4,1,,Rock,Rock,Rock,metadata_and_reference_benchmarks
+S4,2,,Sample,Sample,Sample,metadata_and_reference_benchmarks
+S4,3,,Al2SiO5,Al2SiO5,Al2SiO5,metadata_and_reference_benchmarks
+S4,4,,Opaque,Opaque,Opaque,metadata_and_reference_benchmarks
+S4,5,,T(GB00),T(GB00),T(GB00),metadata_and_reference_benchmarks
+S4,6,,P(GBPQ)(ave),P(GBPQ)(ave),P(GBPQ)(ave),metadata_and_reference_benchmarks
+S4,7,,P(GBPQ)(Mg),P(GBPQ)(Mg),P(GBPQ)(Mg),metadata_and_reference_benchmarks
+S4,8,,P(GBPQ)(Fe),P(GBPQ)(Fe),P(GBPQ)(Fe),metadata_and_reference_benchmarks
+S4,10,Based on GBPQ,T (Grt-Hbl-84),T (Grt-Hbl-84),T (Grt-Hbl-84),temperature_outputs_based_on_GBPQ
+S4,11,Based on GBPQ,T (Grt-Hbl-85Pe),T (Grt-Hbl-85Pe),T (Grt-Hbl-85Pe),temperature_outputs_based_on_GBPQ
+S4,12,Based on GBPQ,T (Grt-Hbl-85Po),T (Grt-Hbl-85Po),T (Grt-Hbl-85Po),temperature_outputs_based_on_GBPQ
+S4,13,Based on GBPQ,T (Grt-Hbl-90),T (Grt-Hbl-90),T (Grt-Hbl-90),temperature_outputs_based_on_GBPQ
+S4,14,Based on GBPQ,T (Grt-Hbl00D),T (Grt-Hbl00D),T (Grt-Hbl00D),temperature_outputs_based_on_GBPQ
+S4,15,Based on GBPQ,T (Grt-Hbl00R),T (Grt-Hbl00R),T (Grt-Hbl00R),temperature_outputs_based_on_GBPQ
+S4,17,Based on GBPQ,T (Hbl-Pl-90),T (Hbl-Pl-90),T (Hbl-Pl-90),temperature_outputs_based_on_GBPQ
+S4,18,Based on GBPQ,T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave),temperature_outputs_based_on_GBPQ
+S4,19,Based on GBPQ,T (Hbl-Pl-94-A),T (Hbl-Pl-94-A),T (Hbl-Pl-94-A),temperature_outputs_based_on_GBPQ
+S4,20,Based on GBPQ,T (Hbl-Pl-94-B),T (Hbl-Pl-94-B),T (Hbl-Pl-94-B),temperature_outputs_based_on_GBPQ
+S4,21,Based on GBPQ,T (Hbl-Pl-21-ave),T (Hbl-Pl-21-ave),T (Hbl-Pl-21-ave),temperature_outputs_based_on_GBPQ
+S4,22,Based on GBPQ,T (Hbl-Pl-21-A),T (Hbl-Pl-21-A),T (Hbl-Pl-21-A),temperature_outputs_based_on_GBPQ
+S4,23,Based on GBPQ,T (Hbl-Pl-21-B),T (Hbl-Pl-21-B),T (Hbl-Pl-21-B),temperature_outputs_based_on_GBPQ
+S4,25,Based on P(GBPQ),T (Hbl97),T (Hbl97),T (Hbl97),temperature_output_based_on_P_GBPQ
+S4,27,Based on T(GB00),P(GHPQ89ave),P(GHPQ89ave),P(GHPQ89ave),pressure_outputs_based_on_T_GB00
+S4,28,Based on T(GB00),P(GHPQ89Mg-a),P(GHPQ89Mg-a),P(GHPQ89Mg-a),pressure_outputs_based_on_T_GB00
+S4,29,Based on T(GB00),P(GHPQ89Fe-a),P(GHPQ89Fe-a),P(GHPQ89Fe-a),pressure_outputs_based_on_T_GB00
+S4,30,Based on T(GB00),P(GHPQ89Mg-b),P(GHPQ89Mg-b),P(GHPQ89Mg-b),pressure_outputs_based_on_T_GB00
+S4,31,Based on T(GB00),P(GHPQ89Fe-b),P(GHPQ89Fe-b),P(GHPQ89Fe-b),pressure_outputs_based_on_T_GB00
+S4,33,Based on T(GB00),P(GHPQ90ave),P(GHPQ90ave),P(GHPQ90ave),pressure_outputs_based_on_T_GB00
+S4,34,Based on T(GB00),P(GHPQ90a),P(GHPQ90a),P(GHPQ90a),pressure_outputs_based_on_T_GB00
+S4,35,Based on T(GB00),P(GHPQ90b),P(GHPQ90b),P(GHPQ90b),pressure_outputs_based_on_T_GB00
+S4,37,Based on T(GB00),P(GHPQ00-Dale-ave),P(GHPQ00-Dale-ave),P(GHPQ00-Dale-ave),pressure_outputs_based_on_T_GB00
+S4,38,Based on T(GB00),P(GHPQ00Dale-a),P(GHPQ00Dale-a),P(GHPQ00Dale-a),pressure_outputs_based_on_T_GB00
+S4,39,Based on T(GB00),P(GHPQ00Dale-b),P(GHPQ00Dale-b),P(GHPQ00Dale-b),pressure_outputs_based_on_T_GB00
+S4,40,Based on T(GB00),P(GHPQ00Dale-c),P(GHPQ00Dale-c),P(GHPQ00Dale-c),pressure_outputs_based_on_T_GB00
+S4,42,Based on T(GB00),P (Hbl-Pl-2007-ave),P (Hbl-Pl-2007-ave),P (Hbl-Pl-2007-ave),pressure_outputs_based_on_T_GB00
+S4,43,Based on T(GB00),P (Hbl-Pl-2007-1),P (Hbl-Pl-2007-1),P (Hbl-Pl-2007-1),pressure_outputs_based_on_T_GB00
+S4,44,Based on T(GB00),P (Hbl-Pl-2007-2),P (Hbl-Pl-2007-2),P (Hbl-Pl-2007-2),pressure_outputs_based_on_T_GB00
+S4,45,Based on T(GB00),P (Hbl-Pl-2015),P (Hbl-Pl-2015),P (Hbl-Pl-2015),pressure_outputs_based_on_T_GB00
+S4,47,Based on T(GB00),P (Hbl97),P (Hbl97),P (Hbl97),pressure_outputs_based_on_T_GB00
+S4,49,iteration pair,T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave).1,T (Hbl-Pl-94-ave).1,iterative_thermobarometry_outputs
+S4,50,iteration pair,P(GHPQ00-Dale-ave),P(GHPQ00-Dale-ave).1,P(GHPQ00-Dale-ave).1,iterative_thermobarometry_outputs
+S4,51,iteration pair,P(GHPQ00Dale-a),P(GHPQ00Dale-a).1,P(GHPQ00Dale-a).1,iterative_thermobarometry_outputs
+S4,52,iteration pair,P(GHPQ00Dale-b),P(GHPQ00Dale-b).1,P(GHPQ00Dale-b).1,iterative_thermobarometry_outputs
+S4,53,iteration pair,P(GHPQ00Dale-c),P(GHPQ00Dale-c).1,P(GHPQ00Dale-c).1,iterative_thermobarometry_outputs
+S4,54,iteration pair,T (Hbl-Pl-94-A),T (Hbl-Pl-94-A).1,T (Hbl-Pl-94-A).1,iterative_thermobarometry_outputs
+S4,55,iteration pair,T (Hbl-Pl-94-B),T (Hbl-Pl-94-B).1,T (Hbl-Pl-94-B).1,iterative_thermobarometry_outputs
+S4,57,iteration pair,T (Grt-Hbl00R) ºC,T (Grt-Hbl00R) ºC,T (Grt-Hbl00R) ºC,iterative_thermobarometry_outputs
+S4,58,iteration pair,P (GHPQ90-ave),P (GHPQ90-ave),P (GHPQ90-ave),iterative_thermobarometry_outputs
+S4,59,iteration pair,P (GHPQ90-Mg),P (GHPQ90-Mg),P (GHPQ90-Mg),iterative_thermobarometry_outputs
+S4,60,iteration pair,P (GHPQ90-Fe),P (GHPQ90-Fe),P (GHPQ90-Fe),iterative_thermobarometry_outputs
+S4,62,iteration pair,T (Grt-Hbl-00D),T (Grt-Hbl-00D),T (Grt-Hbl-00D),iterative_thermobarometry_outputs
+S4,63,iteration pair,P (GHPQ00-ave),P (GHPQ00-ave),P (GHPQ00-ave),iterative_thermobarometry_outputs
+S4,65,iteration pair,T (Grt-Hbl-90),T (Grt-Hbl-90).1,T (Grt-Hbl-90).1,iterative_thermobarometry_outputs
+S4,66,iteration pair,P (GHPQ90-ave),P (GHPQ90-ave).1,P (GHPQ90-ave).1,iterative_thermobarometry_outputs
+S4,67,iteration pair,P (GHPQ-90Mg),P (GHPQ-90Mg),P (GHPQ-90Mg),iterative_thermobarometry_outputs
+S4,68,iteration pair,P (GHPQ-90Fe),P (GHPQ-90Fe),P (GHPQ-90Fe),iterative_thermobarometry_outputs
+S4,70,iteration pair,T(Grt-Hbl85Pe) ºC,T(Grt-Hbl85Pe) ºC,T(Grt-Hbl85Pe) ºC,iterative_thermobarometry_outputs
+S4,71,iteration pair,P (GHPQ90-ave),P (GHPQ90-ave).2,P (GHPQ90-ave).2,iterative_thermobarometry_outputs
+S4,72,iteration pair,P (GHPQ90-Mg),P (GHPQ90-Mg).1,P (GHPQ90-Mg).1,iterative_thermobarometry_outputs
+S4,73,iteration pair,P (GHPQ90-Fe),P (GHPQ90-Fe).1,P (GHPQ90-Fe).1,iterative_thermobarometry_outputs
+S4,75,iteration pair,T (Hbl-Pl-94-ave),T (Hbl-Pl-94-ave).2,T (Hbl-Pl-94-ave).2,iterative_thermobarometry_outputs
+S4,76,iteration pair,P (Hbl-Pl-07-ave),P (Hbl-Pl-07-ave),P (Hbl-Pl-07-ave),iterative_thermobarometry_outputs
+S4,77,iteration pair,P (Hbl-Pl-07-1),P (Hbl-Pl-07-1),P (Hbl-Pl-07-1),iterative_thermobarometry_outputs
+S4,78,iteration pair,P (Hbl-Pl-07-2),P (Hbl-Pl-07-2),P (Hbl-Pl-07-2),iterative_thermobarometry_outputs
+S4,79,iteration pair,T (Hbl-Pl-94A),T (Hbl-Pl-94A),T (Hbl-Pl-94A),iterative_thermobarometry_outputs
+S4,80,iteration pair,T (Hbl-Pl-94B),T (Hbl-Pl-94B),T (Hbl-Pl-94B),iterative_thermobarometry_outputs
+S4,82,iteration pair,P (Hbl-Pl-2015),P (Hbl-Pl-2015).1,P (Hbl-Pl-2015).1,iterative_thermobarometry_outputs
+S4,83,iteration pair,T (Hbl-Pl-2021-ave),T (Hbl-Pl-2021-ave),T (Hbl-Pl-2021-ave),iterative_thermobarometry_outputs
+S4,84,iteration pair,T (Hbl-Pl-2021-A1),T (Hbl-Pl-2021-A1),T (Hbl-Pl-2021-A1),iterative_thermobarometry_outputs
+S4,85,iteration pair,T (Hbl-Pl-2021-A2),T (Hbl-Pl-2021-A2),T (Hbl-Pl-2021-A2),iterative_thermobarometry_outputs
+S4,87,iteration pair,T (Hbl97),T (Hbl97).1,T (Hbl97).1,iterative_thermobarometry_outputs
+S4,88,iteration pair,P (Hbl97),P (Hbl97).1,P (Hbl97).1,iterative_thermobarometry_outputs
+S4,90,,Fe(Bt),Fe(Bt),Fe(Bt),raw_biotite_cations
+S4,91,,Mg(Bt),Mg(Bt),Mg(Bt),raw_biotite_cations
+S4,92,,AlVI(Bt),AlVI(Bt),AlVI(Bt),raw_biotite_cations
+S4,93,,Ti(Bt),Ti(Bt),Ti(Bt),raw_biotite_cations
+S4,95,,Ca(Pl),Ca(Pl),Ca(Pl),raw_plagioclase_cations
+S4,96,,Na(Pl),Na(Pl),Na(Pl),raw_plagioclase_cations
+S4,97,,K(Pl),K(Pl),K(Pl),raw_plagioclase_cations
+S4,99,,Fe(Grt),Fe(Grt),Fe(Grt),raw_garnet_cations
+S4,100,,Mg(Grt),Mg(Grt),Mg(Grt),raw_garnet_cations
+S4,101,,Ca(Grt),Ca(Grt),Ca(Grt),raw_garnet_cations
+S4,102,,Mn(Grt),Mn(Grt),Mn(Grt),raw_garnet_cations
+S4,104,,Si (Hbl),Si (Hbl),Si (Hbl),raw_hornblende_cations
+S4,105,,Ti (Hbl),Ti (Hbl),Ti (Hbl),raw_hornblende_cations
+S4,106,,Al (Hbl),Al (Hbl),Al (Hbl),raw_hornblende_cations
+S4,107,,Fe (Hbl),Fe (Hbl),Fe (Hbl),raw_hornblende_cations
+S4,108,,Mn (Hbl),Mn (Hbl),Mn (Hbl),raw_hornblende_cations
+S4,109,,Mg (Hbl),Mg (Hbl),Mg (Hbl),raw_hornblende_cations
+S4,110,,Ca (Hbl),Ca (Hbl),Ca (Hbl),raw_hornblende_cations
+S4,111,,Na (Hbl),Na (Hbl),Na (Hbl),raw_hornblende_cations
+S4,112,,K (Hbl),K (Hbl),K (Hbl),raw_hornblende_cations
+S4,114,,SiO2(Pl),SiO2(Pl),SiO2(Pl),raw_plagioclase_oxides
+S4,115,,TiO2(Pl),TiO2(Pl),TiO2(Pl),raw_plagioclase_oxides
+S4,116,,Al2O3(Pl),Al2O3(Pl),Al2O3(Pl),raw_plagioclase_oxides
+S4,117,,FeO(Pl),FeO(Pl),FeO(Pl),raw_plagioclase_oxides
+S4,118,,Mn(Pl),Mn(Pl),Mn(Pl),raw_plagioclase_oxides
+S4,119,,MgO(Pl),MgO(Pl),MgO(Pl),raw_plagioclase_oxides
+S4,120,,Ca(Pl),Ca(Pl).1,Ca(Pl).1,raw_plagioclase_oxides
+S4,121,,Na2O(Pl),Na2O(Pl),Na2O(Pl),raw_plagioclase_oxides
+S4,122,,K2O(Pl),K2O(Pl),K2O(Pl),raw_plagioclase_oxides
+S4,124,,SiO2(Hbl),SiO2(Hbl),SiO2(Hbl),raw_hornblende_oxides
+S4,125,,TiO2(Hbl),TiO2(Hbl),TiO2(Hbl),raw_hornblende_oxides
+S4,126,,Al2O3(Hbl),Al2O3(Hbl),Al2O3(Hbl),raw_hornblende_oxides
+S4,127,,FeO(Hbl),FeO(Hbl),FeO(Hbl),raw_hornblende_oxides
+S4,128,,Mn(Hbl),Mn(Hbl),Mn(Hbl),raw_hornblende_oxides
+S4,129,,MgO(Hbl),MgO(Hbl),MgO(Hbl),raw_hornblende_oxides
+S4,130,,Ca(Hbl),Ca(Hbl),Ca(Hbl),raw_hornblende_oxides
+S4,131,,Na2O(Hbl),Na2O(Hbl),Na2O(Hbl),raw_hornblende_oxides
+S4,132,,K2O(Hbl),K2O(Hbl),K2O(Hbl),raw_hornblende_oxides

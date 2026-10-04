@@ -1,0 +1,18 @@
+Source,n_runs,n_complete_Pl,n_complete_Hbl,n_Pl_total_flag,n_Hbl_total_flag,mean_Pl_total,min_Pl_total,max_Pl_total,mean_Hbl_total,min_Hbl_total,max_Hbl_total,n_missing_Pl_oxide
+"Schmidt, M.W., 1993. Phase relations and compositions in tonalite as a function of pressure: an experimental study at 650°C. American Journal of Science 293, 1011-1060. ",9,0,9,0,6,,,,96.73988363755556,95.47650327999999,98.13758230900001,9
+"Schmidt, M.W., 1992. Amphibole composition in tonalite as a function of pressure: an experimental calibration of the Al-in-hornblende barometer. Contributions to Mineralogy and Petrology 110, 304–310.",7,0,7,0,5,,,,97.01889517857141,96.250299801,98.21437073000001,7
+"Rutherford, M.J., Devine, J.D., 2008. Magmatic conditions and processes in the storage zone of the 2004–2006 Mount St. Helens dacite. In: Sherrod, D.R., Scott, W.E., Stauffer, P.H. (Eds.), A Volcano Rekindled: The Renewed Eruption of Mount St. Helens, 2004–2006: U.S. Geological Survey Professional Paper 1750, 703–726. ",5,0,5,0,0,,,,97.84400001200001,97.02000098,98.58000101,5
+"Spear, F.S., 1981. An experimental study of hornblende stability and compositional variability in amphibolite. American Journal of Science 281, 697-734. ",3,0,3,0,0,,,,97.93333395000002,97.90000081000001,97.99999921000001,3
+"Klimm, K., Holtz, F., Johannes, W., King, P.L., 2003. Fractionation of metaluminous A-type granites: an experimental study of the Wangrah Suite, Lachlan Fold Belt, Australia. Precambrian Research 124, 327–341. ",1,0,1,0,0,,,,97.83000089999999,97.83000089999999,97.83000089999999,1
+Prouteau and Scaillet (2003),6,6,6,2,3,99.60666676,98.83999978,100.72000152,97.44071544833334,95.81999799000002,99.61429998999998,0
+Scaillet and Evans (1999),7,7,7,2,2,100.0114288157143,99.01999693,101.1399992,97.67142937857143,96.79999972,98.76000000999998,0
+Moore and Carmichael (1998),3,3,3,0,2,99.530000606,99.159999988,99.779997809,96.98000167,96.33000170999999,97.96999989999999,0
+Pietranik et al. (2009),3,3,3,0,2,99.66666602666668,99.1000009,100.29999819,96.96666791000001,96.10000191,98.40000091,0
+"Caricchi, L., Ulmer, P., Peccerillo, A., 2006. A high-pressure experimental study on the evolution of the silicic magmatism of the Main Ethiopian Rift. Lithos 91, 46–58.",2,2,2,2,1,98.655001541,98.48999990399999,98.82000317800002,97.26500093,96.92000198,97.60999988,0
+Ernst and Liu (1998),3,3,3,2,1,99.46666729833335,98.94999999800001,100.490002099,97.32666630666667,96.85999960000001,97.67999810999999,0
+"Blatter, D.L., Carmichael, I.S.E., 2001. Hydrous phase equilibria of a Mexican high-silica andesite: a candidate for a mantle origin?. Geochimica et Cosmochimica Acta, 65, 4043–4065.",1,1,1,1,1,98.06287381000001,98.06287381000001,98.06287381000001,96.1366702,96.1366702,96.1366702,0
+Pichavant et al. (2002),6,6,6,1,1,100.02166747816666,98.879998,100.86000101799999,97.45666635166667,96.35000211,98.10999998999999,0
+"Prouteau, G., Scaillet, B., 2003. Experimental constraints on the origin of the 1991 Pinatubo dacite. Journral of Petrology 44, 2203–2241. ",1,1,1,1,1,97.95000119000001,97.95000119000001,97.95000119000001,94.89000128,94.89000128,94.89000128,0
+Krawczynski et al. (2012),1,1,1,0,1,100.83000009,100.83000009,100.83000009,96.5800007,96.5800007,96.5800007,0
+Sisson and Grove (1993),7,7,7,0,1,99.68428644057143,99.189997009,100.21000206999999,97.75571403857143,96.43000101,98.61999801,0
+"Ernst, W.G., Liu, J., 1998. Experimental phase-equilibrium study of Al- and Ti-contents of calcic amphibole in MORB—A semiquantitative thermobarometer. American Mineralogist 83, 952–969.",3,3,3,3,0,98.399998959,98.21999841000002,98.56999936899999,97.9499993,97.1000002,98.81999799,0

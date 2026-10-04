@@ -1,0 +1,219 @@
+dataset,variable,dtype,n_nonmissing,n_missing,pct_missing,variable_role,leakage_status,S4_provenance_block
+S1,Reference,str,39,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S1,Run,object,39,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S1,Exp P (kbar),float64,39,0,0.0,experimental_reference_target,PROHIBITED_AS_PREDICTOR,
+S1,Exp T (˚C),int64,39,0,0.0,experimental_reference_target,PROHIBITED_AS_PREDICTOR,
+S1,Si (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Ti (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Al (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Fe (Tot) (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Mn (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Mg (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Ca (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Na (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,K (Grt),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Si (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Ti (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Al (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Fe (Tot) (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Mn (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Mg (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Ca (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Na (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,K (Hbl),float64,39,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S1,Exp T (˚C).1,int64,39,0,0.0,experimental_reference_target,PROHIBITED_AS_PREDICTOR,
+S1,T (Grt-Hbl-84/ºC),float64,39,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S1,T (Grt-Hbl-85Pe/ºC),float64,39,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S1,T (Grt-Hbl-85Po/ºC),float64,39,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S1,T (Grt-Hbl-90/ºC),float64,39,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S1,T (Grt-Hbl00D/ºC),float64,39,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S1,T (Grt-Hbl00R/ºC),float64,39,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,Source,str,90,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S2,Run,object,90,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S2,Exp T(ºC),float64,90,0,0.0,experimental_reference_target,PROHIBITED_AS_PREDICTOR,
+S2,Exp P(kbar),float64,90,0,0.0,experimental_reference_target,PROHIBITED_AS_PREDICTOR,
+S2,SiO2 (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,TiO2 (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Al2O3 (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,FeO (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,MnO (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,MgO (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,CaO (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Na2O (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,K2O (Pl),float64,65,25,27.77777777777778,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Ca (Pl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Na (Pl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,K (Pl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,SiO2 (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,TiO2 (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Al2O3 (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,FeO (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,MnO (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,MgO (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,CaO (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Na2O (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,K2O (HBl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,ZnO (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Cr2O3 (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,NiO (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,F (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Cl (Hbl),float64,90,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S2,Exp T(ºC).1,float64,90,0,0.0,experimental_reference_target,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-90),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-94-ave),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-21-ave),float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-94-A),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-94-B),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-21-TA1),float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-21-T-A2),float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-97),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,Exp P(kbar).1,float64,90,0,0.0,experimental_reference_target,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-07-ave),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-07-(1)),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-07-(2)),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-15),float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl97),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-94-ave).1,float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-07-ave).1,float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-07-1),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-07-2),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-94A),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-94B),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-21),float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl-Pl-15).1,float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-21-TA1).1,float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl-Pl-21-T-A2).1,float64,65,25,27.77777777777778,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,T (Hbl97),float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S2,P (Hbl97).1,float64,90,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,
+S3,Source,str,2084,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S3,Rock,str,2082,2,0.09596928982725528,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S3,Sample,object,2084,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S3,Al2SiO5,str,2084,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S3,Opaque,str,954,1130,54.22264875239923,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,
+S3,T (GB00),int64,2084,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,
+S3,P (GASP),float64,2084,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,
+S3,T (GB00).1,float64,2084,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,
+S3,P (GBPQ-Mg),float64,2084,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,
+S3,P (GBPQ-Fe),float64,2084,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,
+S3,Fe(Bt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Mg(Bt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,AlVI(Bt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Ti(Bt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Ca(Pl),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Na(Pl),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,K(Pl),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Fe(Grt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Mg(Grt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Ca(Grt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S3,Mn(Grt),float64,2084,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,
+S4,Source,str,88,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,metadata_and_reference_benchmarks
+S4,Rock,str,88,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,metadata_and_reference_benchmarks
+S4,Sample,object,88,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,metadata_and_reference_benchmarks
+S4,Al2SiO5,str,88,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,metadata_and_reference_benchmarks
+S4,Opaque,str,88,0,0.0,identifier_or_metadata,GROUPING_METADATA_NOT_NUMERIC_PREDICTOR,metadata_and_reference_benchmarks
+S4,T(GB00),float64,88,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,metadata_and_reference_benchmarks
+S4,P(GBPQ)(ave),float64,88,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,metadata_and_reference_benchmarks
+S4,P(GBPQ)(Mg),float64,88,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,metadata_and_reference_benchmarks
+S4,P(GBPQ)(Fe),float64,88,0,0.0,model_derived_reference_or_benchmark,PROHIBITED_AS_PREDICTOR,metadata_and_reference_benchmarks
+S4,T (Grt-Hbl-84),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Grt-Hbl-85Pe),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Grt-Hbl-85Po),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Grt-Hbl-90),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Grt-Hbl00D),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Grt-Hbl00R),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl-Pl-90),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl-Pl-94-ave),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl-Pl-94-A),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl-Pl-94-B),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl-Pl-21-ave),float64,74,14,15.909090909090908,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl-Pl-21-A),float64,74,14,15.909090909090908,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl-Pl-21-B),float64,74,14,15.909090909090908,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_outputs_based_on_GBPQ
+S4,T (Hbl97),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,temperature_output_based_on_P_GBPQ
+S4,P(GHPQ89ave),float64,86,2,2.272727272727273,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ89Mg-a),float64,86,2,2.272727272727273,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ89Fe-a),float64,86,2,2.272727272727273,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ89Mg-b),float64,86,2,2.272727272727273,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ89Fe-b),float64,86,2,2.272727272727273,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ90ave),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ90a),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ90b),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ00-Dale-ave),float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ00Dale-a),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ00Dale-b),float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P(GHPQ00Dale-c),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P (Hbl-Pl-2007-ave),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P (Hbl-Pl-2007-1),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P (Hbl-Pl-2007-2),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P (Hbl-Pl-2015),float64,76,12,13.636363636363635,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,P (Hbl97),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,pressure_outputs_based_on_T_GB00
+S4,T (Hbl-Pl-94-ave).1,float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P(GHPQ00-Dale-ave).1,float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P(GHPQ00Dale-a).1,float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P(GHPQ00Dale-b).1,float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P(GHPQ00Dale-c).1,float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-94-A).1,float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-94-B).1,float64,87,1,1.1363636363636365,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Grt-Hbl00R) ºC,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ90-ave),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ90-Mg),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ90-Fe),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Grt-Hbl-00D),float64,78,10,11.363636363636363,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ00-ave),float64,78,10,11.363636363636363,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Grt-Hbl-90).1,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ90-ave).1,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ-90Mg),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ-90Fe),float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T(Grt-Hbl85Pe) ºC,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ90-ave).2,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ90-Mg).1,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (GHPQ90-Fe).1,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-94-ave).2,float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (Hbl-Pl-07-ave),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (Hbl-Pl-07-1),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (Hbl-Pl-07-2),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-94A),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-94B),float64,79,9,10.227272727272728,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (Hbl-Pl-2015).1,float64,74,14,15.909090909090908,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-2021-ave),float64,74,14,15.909090909090908,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-2021-A1),float64,74,14,15.909090909090908,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl-Pl-2021-A2),float64,74,14,15.909090909090908,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,T (Hbl97).1,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,P (Hbl97).1,float64,88,0,0.0,thermobarometer_derived_output,PROHIBITED_AS_PREDICTOR,iterative_thermobarometry_outputs
+S4,Fe(Bt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_biotite_cations
+S4,Mg(Bt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_biotite_cations
+S4,AlVI(Bt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_biotite_cations
+S4,Ti(Bt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_biotite_cations
+S4,Ca(Pl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_cations
+S4,Na(Pl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_cations
+S4,K(Pl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_cations
+S4,Fe(Grt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_garnet_cations
+S4,Mg(Grt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_garnet_cations
+S4,Ca(Grt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_garnet_cations
+S4,Mn(Grt),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_garnet_cations
+S4,Si (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,Ti (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,Al (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,Fe (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,Mn (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,Mg (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,Ca (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,Na (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,K (Hbl),float64,88,0,0.0,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_cations
+S4,SiO2(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,TiO2(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,Al2O3(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,FeO(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,Mn(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,MgO(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,Ca(Pl).1,float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,Na2O(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,K2O(Pl),float64,76,12,13.636363636363635,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_plagioclase_oxides
+S4,SiO2(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,TiO2(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,Al2O3(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,FeO(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,Mn(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,MgO(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,Ca(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,Na2O(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides
+S4,K2O(Hbl),float64,79,9,10.227272727272728,mineral_chemistry_predictor,ELIGIBLE_PREDICTOR_AFTER_QC,raw_hornblende_oxides

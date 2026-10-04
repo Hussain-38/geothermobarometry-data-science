@@ -1,0 +1,9 @@
+{
+    "python_version": "3.11.17 | packaged by Anaconda, Inc. | (main, Oct  1 2026, 20:16:54) [MSC v.1942 64 bit (AMD64)]",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "numpy_version": "2.4.6",
+    "pandas_version": "3.0.6",
+    "random_seed": 42,
+    "project_directory": "D:\\Data Science Assignment",
+    "analysis_script": "scripts/DS_A1_provenance_audit.py"
+}

@@ -1,0 +1,3 @@
+issue,finding,primary_dataset_action,sensitivity_action
+Repeated Source + Sample identifiers,Repeated identifiers frequently contain different mineral compositions or calculated P-T values and therefore represent distinct analyses.,Retain and flag,Retain
+Exact duplicate records,"Four records appear twice identically, producing eight rows belonging to exact duplicate groups.",Retain and flag to reproduce the published 2084-row dataset,Remove redundant copies only in sensitivity analysis

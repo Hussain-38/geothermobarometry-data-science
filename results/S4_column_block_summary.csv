@@ -1,0 +1,12 @@
+corrected_block,n_columns,first_position,last_position
+metadata_and_reference_benchmarks,9,0,8
+temperature_outputs_based_on_GBPQ,13,10,23
+temperature_output_based_on_P_GBPQ,1,25,25
+pressure_outputs_based_on_T_GB00,17,27,47
+iterative_thermobarometry_outputs,33,49,88
+raw_biotite_cations,4,90,93
+raw_plagioclase_cations,3,95,97
+raw_garnet_cations,4,99,102
+raw_hornblende_cations,9,104,112
+raw_plagioclase_oxides,9,114,122
+raw_hornblende_oxides,9,124,132

@@ -1,0 +1,2 @@
+dataset,raw_structured_rows,analytical_rows,excluded_from_analysis,reason,raw_rows_deleted
+S2,113,90,23,"Rows lacking Run, experimental temperature, and experimental pressure are appended bibliography entries rather than experimental observations.",False
